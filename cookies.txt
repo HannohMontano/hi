@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+siged.sep.gob.mx	TRUE	/	FALSE	1999999999	BIGipServerPool_SPEC_BI_HTTP	rd8o00000000000000000000ffffac1f0f0bo7003
+.bootstrapcdn.com	TRUE	/	FALSE	1999999999	__cfduid	d3235837167348ba0e5c49393621ad8551616167320
+maxcdn.bootstrapcdn.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.datatables.net	TRUE	/	FALSE	1999999999	__cfduid	da43cb669fb64092f4a62b2b5462370aa1616167327
+cdn.datatables.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+

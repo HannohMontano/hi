@@ -1,0 +1,177 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 19 Mar 2021 09:21:27 at https://siged.sep.gob.mx/SIGED/documentos.html?folio=1436b2e7-5cf2-4b83-99a5-a71c68d6ded9 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://siged.sep.gob.mx/SIGED/documentos.html?folio=1436b2e7-5cf2-4b83-99a5-a71c68d6ded9 -O1 "C:\My Web Sites\CERTMX" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:21:59	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/ima/DocumentosCerti.png
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/css/Bootstrap-3.3.6/fonts/glyphicons-halflings-regular.eot (from https://siged.sep.gob.mx/SIGED/css/datatables.min.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/css/Bootstrap-3.3.6/fonts/glyphicons-halflings-regular.eot? (from https://siged.sep.gob.mx/SIGED/css/datatables.min.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/css/Bootstrap-3.3.6/fonts/glyphicons-halflings-regular.woff2 (from https://siged.sep.gob.mx/SIGED/css/datatables.min.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/css/Bootstrap-3.3.6/fonts/glyphicons-halflings-regular.woff (from https://siged.sep.gob.mx/SIGED/css/datatables.min.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/css/Bootstrap-3.3.6/fonts/glyphicons-halflings-regular.ttf (from https://siged.sep.gob.mx/SIGED/css/datatables.min.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/css/Bootstrap-3.3.6/fonts/glyphicons-halflings-regular.svg (from https://siged.sep.gob.mx/SIGED/css/datatables.min.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/images/patterns/binding-dark.png (from https://siged.sep.gob.mx/SIGED/css/global-style.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/images/patterns/squairy-light.png (from https://siged.sep.gob.mx/SIGED/css/global-style.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/images/patterns/dark-dotted.png (from https://siged.sep.gob.mx/SIGED/css/global-style.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/images/patterns/skulls.png (from https://siged.sep.gob.mx/SIGED/css/global-style.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/images/backgrounds/full-bg-10.jpg (from https://siged.sep.gob.mx/SIGED/css/global-style.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/images/backgrounds/full-bg-3.jpg (from https://siged.sep.gob.mx/SIGED/css/global-style.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/images/prv/banner-img-4.jpg (from https://siged.sep.gob.mx/SIGED/css/global-style.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/images/prv/banner-img-1.jpg (from https://siged.sep.gob.mx/SIGED/css/global-style.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/images/patterns/slash-it.png (from https://siged.sep.gob.mx/SIGED/css/global-style.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/images/patterns/dark-exa.png (from https://siged.sep.gob.mx/SIGED/css/global-style.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/css/images/camera.png (from https://siged.sep.gob.mx/SIGED/css/global-style.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/images/temp/bw.jpg (from https://siged.sep.gob.mx/SIGED/css/global-style.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/images/temp/dark.jpg (from https://siged.sep.gob.mx/SIGED/css/global-style.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/images/temp/flat.jpg (from https://siged.sep.gob.mx/SIGED/css/global-style.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/css/yes-no.gif (from https://siged.sep.gob.mx/SIGED/css/global-style.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/css/images/arrows-thin.png (from https://siged.sep.gob.mx/SIGED/css/global-style.css)
+09:22:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/css/images/arrows-thin-x2.png (from https://siged.sep.gob.mx/SIGED/css/global-style.css)
+09:22:14	Error: 	"Not Found" (404) at link https://framework-gb.cdn.gob.mx/assets/images/home_picture.jpg (from https://framework-gb.cdn.gob.mx/assets/styles/main.css)
+09:22:14	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/fonts/fontawesome-webfont.eot?v=4.6.3
+09:22:14	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/fonts/fontawesome-webfont.eot?
+09:22:14	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/fonts/fontawesome-webfont.woff2?v=4.6.3
+09:22:14	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/fonts/fontawesome-webfont.woff?v=4.6.3
+09:22:14	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/fonts/fontawesome-webfont.ttf?v=4.6.3
+09:22:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/calendar/simbologia/Images/event.gif (from https://siged.sep.gob.mx/SIGED/calendar/simbologia/StyleSheet.css)
+09:22:14	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/calendar/simbologia/Images/Consejo.png
+09:22:14	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/calendar/simbologia/Images/Vacaciones.png
+09:22:14	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/calendar/simbologia/Images/Suspencion.png
+09:22:14	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/calendar/simbologia/Images/Ajuste.png
+09:22:14	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/calendar/simbologia/Images/FinCurso.png
+09:22:14	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/calendar/simbologia/Images/InicioCurso.png
+09:22:14	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/calendar/simbologia/Images/PlaneaP4.png
+09:22:14	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/calendar/simbologia/Images/Planeap6.png
+09:22:14	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/calendar/simbologia/Images/PlaneaSec.png
+09:22:14	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/calendar/simbologia/Images/Receso.png
+09:22:14	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/calendar/simbologia/Images/SolPreinsc.png
+09:22:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/dataset.data[index]; (from https://siged.sep.gob.mx/SIGED/js/Chart.js)
+09:22:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/== (from https://siged.sep.gob.mx/SIGED/js/Chart.js)
+09:22:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/me.getDataset().data (from https://siged.sep.gob.mx/SIGED/js/Chart.js)
+09:22:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/me._data; (from https://siged.sep.gob.mx/SIGED/js/Chart.js)
+09:22:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/this.chart.data; (from https://siged.sep.gob.mx/SIGED/js/Chart.js)
+09:22:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/chart.data; (from https://siged.sep.gob.mx/SIGED/js/Chart.js)
+09:22:16	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/ima/home1.png
+09:22:16	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/images/logo_bco-sep.png
+09:22:32	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/images/conformacion_SIGED.png
+09:22:39	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/obj[key]; (from https://siged.sep.gob.mx/SIGED/js/angular.js)
+09:22:39	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/postDigestQueue.get(element); (from https://siged.sep.gob.mx/SIGED/js/angular.js)
+09:22:39	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/postDigestQueue.get(element) (from https://siged.sep.gob.mx/SIGED/js/angular.js)
+09:22:39	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/createMap(); (from https://siged.sep.gob.mx/SIGED/js/angular.js)
+09:22:39	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/null; (from https://siged.sep.gob.mx/SIGED/js/angular.js)
+09:22:39	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/http-hello.html (from https://siged.sep.gob.mx/SIGED/js/angular.js)
+09:22:39	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/buildUrl(config.url, (from https://siged.sep.gob.mx/SIGED/js/angular.js)
+09:22:39	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/` (from https://siged.sep.gob.mx/SIGED/js/angular.js)
+09:22:39	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/url; (from https://siged.sep.gob.mx/SIGED/js/angular.js)
+09:22:39	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/urlParsingNode.href; (from https://siged.sep.gob.mx/SIGED/js/angular.js)
+09:22:39	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/index.html (from https://siged.sep.gob.mx/SIGED/js/angular.js)
+09:22:39	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/script.js (from https://siged.sep.gob.mx/SIGED/js/angular.js)
+09:22:39	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/angular-sanitize.js (from https://siged.sep.gob.mx/SIGED/js/angular.js)
+09:22:39	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/currentTpl (from https://siged.sep.gob.mx/SIGED/js/angular.js)
+09:22:39	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/datatables/==c?b.aaData||b[c]:%22%22!==c?Q(c)(b):b}function (from https://siged.sep.gob.mx/SIGED/js/datatables/jquery.dataTables.min.js)
+09:22:40	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/ima/alumnos.png
+09:22:40	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/ima/docentes.png
+09:22:40	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/ima/escuelas.png
+09:22:40	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/ima/documentos.png
+09:22:40	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/banner.js (from https://siged.sep.gob.mx/SIGED/alumnos.html)
+09:22:40	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/ima/bannerDocentes.png
+09:22:40	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/images/avatar_teacher.png
+09:22:43	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/ima/bannerEscuelas.png
+09:22:44	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/images/logo_sep.png
+09:22:53	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/archivos/LayoutConsulta.xlsx
+09:23:11	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/ima/general.png
+09:23:11	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/www.siged.gob.mx (from https://siged.sep.gob.mx/SIGED/aviso_privacidad.html)
+09:23:13	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/images/Recurso1.png
+09:23:13	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/images/Recurso3.png
+09:23:13	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/images/img_escuelas.png
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/concentrado_docentes.xls (from https://siged.sep.gob.mx/SIGED/js/docentes.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/fancybox_sprite.png (from https://siged.sep.gob.mx/SIGED/js/jquery.fancybox.css?v=2.1.5)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/fancybox_loading.gif (from https://siged.sep.gob.mx/SIGED/js/jquery.fancybox.css?v=2.1.5)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/blank.gif (from https://siged.sep.gob.mx/SIGED/js/jquery.fancybox.css?v=2.1.5)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/fancybox_overlay.png (from https://siged.sep.gob.mx/SIGED/js/jquery.fancybox.css?v=2.1.5)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/fancybox_sprite@2x.png (from https://siged.sep.gob.mx/SIGED/js/jquery.fancybox.css?v=2.1.5)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/fancybox_loading@2x.gif (from https://siged.sep.gob.mx/SIGED/js/jquery.fancybox.css?v=2.1.5)
+09:23:13	Warning: 	Retry after error -5 (Unable to get server's address: Host desconocido. ) at link {s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png (from https://siged.sep.gob.mx/SIGED/maps/escuelasOSM.html)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/datatables/settings.aoData; (from https://siged.sep.gob.mx/SIGED/js/datatables/jquery.dataTables.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/datatables/data[ (from https://siged.sep.gob.mx/SIGED/js/datatables/jquery.dataTables.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/datatables/(join==="") (from https://siged.sep.gob.mx/SIGED/js/datatables/jquery.dataTables.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/datatables/== (from https://siged.sep.gob.mx/SIGED/js/datatables/jquery.dataTables.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/datatables/str.substring( (from https://siged.sep.gob.mx/SIGED/js/datatables/jquery.dataTables.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/datatables/row._aData; (from https://siged.sep.gob.mx/SIGED/js/datatables/jquery.dataTables.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/datatables/tmp; (from https://siged.sep.gob.mx/SIGED/js/datatables/jquery.dataTables.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/datatables/$.isFunction( (from https://siged.sep.gob.mx/SIGED/js/datatables/jquery.dataTables.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/datatables/[], (from https://siged.sep.gob.mx/SIGED/js/datatables/jquery.dataTables.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/datatables/_fnAjaxDataSrc( (from https://siged.sep.gob.mx/SIGED/js/datatables/jquery.dataTables.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/datatables/settings.aoData[ (from https://siged.sep.gob.mx/SIGED/js/datatables/jquery.dataTables.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/datatables/oTable._('tr:first'); (from https://siged.sep.gob.mx/SIGED/js/datatables/jquery.dataTables.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/datatables/oTable._('tr', (from https://siged.sep.gob.mx/SIGED/js/datatables/jquery.dataTables.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/datatables/find( (from https://siged.sep.gob.mx/SIGED/js/datatables/jquery.dataTables.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/datatables/{ (from https://siged.sep.gob.mx/SIGED/js/datatables/jquery.dataTables.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/datatables/settings.aoData, (from https://siged.sep.gob.mx/SIGED/js/datatables/jquery.dataTables.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/datatables/'+data+' (from https://siged.sep.gob.mx/SIGED/js/datatables/jquery.dataTables.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/concentrado_escuelas.xls (from https://siged.sep.gob.mx/SIGED/js/escuelas.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/==t},t.prototype.getRendering=function(){return (from https://siged.sep.gob.mx/SIGED/js/fullcalendar.min.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/'+u.htmlEscape(d.url)+' (from https://siged.sep.gob.mx/SIGED/js/fullcalendar.min.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/'+a.htmlEscape(o.url)+' (from https://siged.sep.gob.mx/SIGED/js/fullcalendar.min.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/'+r.htmlEscape(u)+' (from https://siged.sep.gob.mx/SIGED/js/fullcalendar.min.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/{href} (from https://siged.sep.gob.mx/SIGED/js/jquery.fancybox.pack.js?v=2.1.5)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/'+g+' (from https://siged.sep.gob.mx/SIGED/js/jquery.fancybox.pack.js?v=2.1.5)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/concentrado_certificados.xls (from https://siged.sep.gob.mx/SIGED/js/documentosMasivos.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/dist/== (from https://siged.sep.gob.mx/SIGED/js/xlsx/dist/cpexcel.js)
+09:23:13	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/dist/data.toString('utf8'); (from https://siged.sep.gob.mx/SIGED/js/xlsx/dist/cpexcel.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/hello.txt (from https://siged.sep.gob.mx/SIGED/js/xlsx/jszip.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/smile.gif (from https://siged.sep.gob.mx/SIGED/js/xlsx/jszip.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/Xmas.txt (from https://siged.sep.gob.mx/SIGED/js/xlsx/jszip.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/base64.decode(data); (from https://siged.sep.gob.mx/SIGED/js/xlsx/jszip.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/= (from https://siged.sep.gob.mx/SIGED/js/xlsx/jszip.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/== (from https://siged.sep.gob.mx/SIGED/js/xlsx/jszip.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/null; (from https://siged.sep.gob.mx/SIGED/js/xlsx/jszip.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/utils.string2binary(data); (from https://siged.sep.gob.mx/SIGED/js/xlsx/jszip.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/utils.transformTo("uint8array", (from https://siged.sep.gob.mx/SIGED/js/xlsx/jszip.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/str.charCodeAt(i); (from https://siged.sep.gob.mx/SIGED/js/xlsx/jszip.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/zlib/deflate.js (from https://siged.sep.gob.mx/SIGED/js/xlsx/jszip.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/(code (from https://siged.sep.gob.mx/SIGED/js/xlsx/jszip.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/_length_code[lc]; (from https://siged.sep.gob.mx/SIGED/js/xlsx/jszip.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/d_code(dist); (from https://siged.sep.gob.mx/SIGED/js/xlsx/jszip.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/(enc (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/URL.createObjectURL(blob); (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/infile.read(); (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/e0 c9 ea 79 f9 ba ce 11 8c 82 00 aa 00 4b a9 0b (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/03 03 00 00 00 00 00 00 c0 00 00 00 00 00 00 46 (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/aoa.slice(1); (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/records[ri].trim(); (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/data.slice(1,data.length-1); (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/META-INF/manifest.xml (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/content.xml (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/meta.xml (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/styles.xml (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/objectdata.xml (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/[Content_Types].xml (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/xl/workbook.xml (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/xl/worksheets/sheet.xml (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/docProps/core.xml (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/docProps/app.xml (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/docProps/custom.xml (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/xl/theme/theme1.xml (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/theme/theme1.xml (from https://siged.sep.gob.mx/SIGED/js/xlsx/xlsx.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/e.target.result; (from https://siged.sep.gob.mx/SIGED/js/xlsx/decodeXLSX.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/xlsx/new (from https://siged.sep.gob.mx/SIGED/js/xlsx/decodeXLSX.js)
+09:23:14	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/concentrado_principalesCifras.xls (from https://siged.sep.gob.mx/SIGED/js/principalesCifras.js)
+09:23:18	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/js/concentrado_articulo73.xls (from https://siged.sep.gob.mx/SIGED/js/art73.js)
+09:23:18	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link {s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png (from https://siged.sep.gob.mx/SIGED/maps/escuelasOSM.html)
+09:23:18	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/glosario/assets/htmlimages/Play_icon.png
+09:23:18	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/glosario/assets/htmlimages/gesturemobileicon.png
+09:23:18	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/glosario/assets/htmlimages/gesturemobileimage2.png
+09:23:18	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/glosario/assets/htmlimages/gesturemobilelandscape.png
+09:23:18	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/glosario/assets/htmlimages/gesturetabletimage.png
+09:23:18	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/glosario/assets/htmlimages/dd_arrow.png
+09:23:18	Warning: 	File not parsed, looks like binary: https://siged.sep.gob.mx/SIGED/glosario/assets/htmlimages/sequenceReview.png
+09:23:18	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/glosario/assets/js/_1d6[_240];if(url&&url.substring(0,1)==="/")if(url.substring(1,2)==="/")url=document.location.protocol+url;else (from https://siged.sep.gob.mx/SIGED/glosario/assets/js/OpenAjaxManagedHub-all.js)
+09:23:18	Error: 	"Not Found" (404) at link https://siged.sep.gob.mx/SIGED/glosario/assets/js/document.location.protocol+"//"+document.location.host+url;return (from https://siged.sep.gob.mx/SIGED/glosario/assets/js/OpenAjaxManagedHub-all.js)
+09:23:18	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link {s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png (from https://siged.sep.gob.mx/SIGED/maps/escuelasOSM.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 51 seconds : 288 links scanned, 160 files written (12342498 bytes overall) [11682455 bytes received at 105247 bytes/sec], 1147527 bytes transferred using HTTP compression in 10 files, ratio 24%, 1.0 requests per connection
+(124 errors, 42 warnings, 0 messages)
